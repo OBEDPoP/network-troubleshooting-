@@ -1,5 +1,3 @@
-# network-troubleshooting
-
 # Network Security and Troubleshooting Guide
 
 ## Introduction
